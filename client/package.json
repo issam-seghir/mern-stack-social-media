@@ -63,7 +63,7 @@
 		"vite-plugin-svgr": "^4.2.0"
 	},
 	"dependencies": {
-		"@hookform/resolvers": "^3.3.3",
+		"@hookform/resolvers": "^3.3.4",
 		"@mui/icons-material": "^5.15.2",
 		"@reduxjs/toolkit": "^2.0.1",
 		"@uidotdev/usehooks": "^2.4.1",
